@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="button_text">Jouer</string>
+    <string name="button_text_retour">Retour</string>
+    <string name="button_text_apropos">A Propos</string>
+    <string name="button_text_valide">Valider</string>
+    <string name="button_text_gridchoice">Choisir une grille</string>
+</resources>
